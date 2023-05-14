@@ -6,12 +6,14 @@ En un inicio, claro esta lo principal es obtener los datos potencialmente analiz
 
 #### 1) Árbol de máxima verosimilitud (no segmentado):
 ![unpartitioned treefile](https://github.com/StivennGutierrez/parcial_bioinformatica/assets/128840301/65473ddb-c357-4b59-a851-ab12b233e02a)
-> Resultado:
+---
 
-En general, el árbol señala la formación de distintos clados como el que incluye las especies *Oreochromis niloticus*, *Takifugu rubripes*, *Danio rerio* y ¨Lepisosteus oculatus*, donde la especie *T. rubripes* señala mayor acumulación de cambios evolutivos a tráves del tiempo. 
+### Resultado:
+En general, el árbol señala la formación de distintos clados como el que incluye las especies *Oreochromis niloticus*:tropical_fish:, *Takifugu rubripes*:fish:, *Danio rerio*:fried_shrimp: y ¨Lepisosteus oculatus*:shrimp:, donde la especie *T. rubripes* señala mayor acumulación de cambios evolutivos a tráves del tiempo :hourglass_flowing_sand:. Cabe resaltar que este grupo monofilético muestra apariciones y cambios evolutivos más lejanos entre cada especie.
 
-Asimismo, es posible identificar otros clados con apariciones y cambios evolutivos no muy lejanos entre sí: el primero, comformado por las especies *Pelodiscus sinensis*, *Anolis carolinensis*, *Taeniopygia guttata*, *Meleagris gallopavo* y *Gallus*; el segundo, conformado por *Homo sapiens*, *Mus musculus*, *Canis lupus familiaris*, *Dasypus novemcintus* y *Loxodonta africana*, siendo estos últimos más recientes.
+Asimismo, es posible identificar otros clados con apariciones y cambios evolutivos no muy lejanos entre sí: el primero, comformado por las especies *Pelodiscus sinensis*, *Anolis carolinensis*, *Taeniopygia guttata*, *Meleagris gallopavo* y *Gallus gallus*; el segundo, conformado por *Homo sapiens*, *Mus musculus*, *Canis lupus familiaris*, *Dasypus novemcintus* y *Loxodonta africana*, siendo estos últimos más recientes.
 
+---
 
 #### 2) Árbol de máxima verosimilitud (segmentado):
 ![partitioned treefile](https://github.com/StivennGutierrez/parcial_bioinformatica/assets/128840301/96ca351e-4e38-476b-972a-caff3a851152)
