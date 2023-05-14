@@ -31,6 +31,12 @@ En este caso, los valores de bootstrap nos permiten corroborar la fiabilidad de 
 #### 3) Árbol de coalescencia:
 ![species_tree_ASTRAL tre](https://github.com/StivennGutierrez/parcial_bioinformatica/assets/128840301/fe5062a5-2389-4ae2-8b73-322aa6dac1cb)
 
+----
+
+### Resultado:
+Ya para un análisis de coalescencia, el árbol nos indica los tiempos de coalescencia y las longitudes de rama para el caso de cada especie según la señal de cambio evolutivo en unidades coalescentes. De este modo, es posible observar que las inferencias de las relaciones filogenéticas son diferentes a las propuestas por el algoritmo de máxima verosimilitud. De hech, para la primera división de clados se evidencia un claro evento de politomía, que teniendo en cuenta el valor bajo de bootstrap, solo no se pudo inferir una clara filiación de ese ancestro frente al resto, es decir, aún no es claro el tiempo de coalescencia en el que los ancestros de los respectivos clados dieron inició a estos clados.
+
+---
 
 #### Diferencias entre los tres tipos de árboles:
 | **Item** | **January** | **February** |
@@ -39,12 +45,6 @@ En este caso, los valores de bootstrap nos permiten corroborar la fiabilidad de 
 | Oranges | 7 | 9 |
 | Bananas | 2 | 3 |
 
-----
-
-### Resultado:
-En este caso, los valores de bootstrap nos permiten corroborar la fiabilidad de las relaciones filogenéticas obtenidas. De esta forma, atendiendo a lo mencionado en el análisis anterior, la ubicación de *A. carolinensis* realmente es incierta teniendo en cuenta el valor de soporte tan bajo (44.6). De resto, todas las relaciones filogenéticas señalan valores de bootstrap bastante confiables. Y haciendo un barrido de las distancias de rama, podemos observar que al generar particiones dentro del análisis, la sensibilidad frente a los cambios evolutivos es mayor, ya que posiblemente se pudieron contemplar cambios en las secuencias dentro de un modelo de evolución para distintos locus.
-
----
 
 
 
