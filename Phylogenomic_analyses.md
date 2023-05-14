@@ -6,6 +6,7 @@ En un inicio, claro esta lo principal es obtener los datos potencialmente analiz
 
 #### 1) Árbol de máxima verosimilitud (no segmentado):
 ![unpartitioned treefile](https://github.com/StivennGutierrez/parcial_bioinformatica/assets/128840301/65473ddb-c357-4b59-a851-ab12b233e02a)
+
 ----
 
 ### Resultado:
