@@ -43,8 +43,8 @@ Ya para un análisis de coalescencia, el árbol nos indica los tiempos de coales
 | --- | --- | --- | --- |
 | Valor de soporte | Bootstrap | Bootstrap | Basado en probabilidades posteriores o valores de bootstrap en base a múltiples árboles generados por estocasticidad de los procesos coalescentes |
 | Representación rama | Se basa en las distancias filogenéticas | Se basa en las distancias filogenéticas | Representa unidades de tiempo coalescente en generaciones o años |
-| interpretación y resultados | Representa el árbol que mejor ubica las distancias evolutivas entre especies | Representa la estimación más adecuada para representar la historia evolutiva dadas las distancias evolutivas de cada especie | Representa la historia genealógica más probable según los datos de secuencia y las inferencias propuestas por un modelo coalescente |
-
+| Interpretación y resultados | Representa el árbol que mejor ubica las distancias evolutivas entre especies | Representa la estimación más adecuada para representar la historia evolutiva dadas las distancias evolutivas de cada especie | Representa la historia genealógica más probable según los datos de secuencia y las inferencias propuestas por un modelo coalescente |
+| Uso | Estimar relaciones filogenéticas para secuencias lejanamente relacionadas | Estimar relaciones filogenéticas para secuencias estrechamente relacionadas | Establecer relaciones filogenéticas a nivel poblacional a partir de eventos de coalescencia |
 
 
 
