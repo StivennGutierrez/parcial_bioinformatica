@@ -9,10 +9,20 @@ En un inicio, claro esta lo principal es obtener los datos potencialmente analiz
 
 
 #### 2) Árbol de máxima verosimilitud (segmentado):
-![partitioned treefile](https://github.com/StivennGutierrez/parcial_bioinformatica/assets/128840301/45f9558a-b0ae-44fb-b093-53e74d54a77d)
+![partitioned treefile](https://github.com/StivennGutierrez/parcial_bioinformatica/assets/128840301/96ca351e-4e38-476b-972a-caff3a851152)
+
+
 
 #### 3) Árbol de coalescencia:
 ![species_tree_ASTRAL tre](https://github.com/StivennGutierrez/parcial_bioinformatica/assets/128840301/edc4989b-ca1f-4ee0-8424-d5ca3af2c282)
+
+#### Diferencias entre los tres tipos de árboles:
+| **Item** | **January** | **February** |
+| --- | --- | --- |
+| Apples | 5 | 7 |
+| Oranges | 7 | 9 |
+| Bananas | 2 | 3 |
+
 
 
 
