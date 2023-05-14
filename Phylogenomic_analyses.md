@@ -14,6 +14,8 @@ En general, el árbol señala la formación de distintos clados como el que incl
 
 Asimismo, es posible identificar otros clados con apariciones y cambios evolutivos no muy lejanos entre sí: el primero, conformado por las especies *Pelodiscus sinensis*:turtle:, *Anolis carolinensis*:lizard:, *Taeniopygia guttata*:bird:, *Meleagris gallopavo*:turkey: y *Gallus gallus*	:rooster:; el segundo, conformado por *Homo sapiens*:tipping_hand_person:, *Mus musculus*:mouse2:, *Canis lupus familiaris*:dog2:, *Dasypus novemcintus*:hedgehog: y *Loxodonta africana*:elephant:, siendo este último grupo monofilético más recientes.
 
+Pero si nos fijamos bien, podemos observar que las especies *Neoceratodus forsteri*:penguin:, *Protopterus annectens*:shrimp: y *Lepidosiren paradoxa*Lepidosiren paradoxa se separan de los clados anteriores un tiempo evolutivo considerable, siendo *N. forsteri* la especie más reciente :new:. Además, la especie *Callorhinchus milli*:shark: sería la especie que menos carcaterísticas compartiría con el resto de clados, sin embargo debe presentar una carcaterística que lo separó del primer clado mencionado, y que a lo largo del tiempo ha permanecido en un constante cambio evolutivo:electron:.
+
 ---
 
 #### 2) Árbol de máxima verosimilitud (segmentado):
