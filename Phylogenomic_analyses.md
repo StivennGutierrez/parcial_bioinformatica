@@ -9,7 +9,7 @@ En un inicio, claro esta lo principal es obtener los datos potencialmente analiz
 ---
 
 ### Resultado:
-En general, el árbol señala la formación de distintos clados como el que incluye las especies *Oreochromis niloticus*:tropical_fish:, *Takifugu rubripes*:fish:, *Danio rerio*:fried_shrimp: y ¨Lepisosteus oculatus*:shrimp:, donde la especie *T. rubripes* señala mayor acumulación de cambios evolutivos a tráves del tiempo :hourglass_flowing_sand:. Cabe resaltar que este grupo monofilético muestra apariciones y cambios evolutivos más lejanos entre cada especie.
+En general, el árbol señala la formación de distintos clados como el que incluye las especies *Oreochromis niloticus*:tropical_fish:, *Takifugu rubripes*:fish:, *Danio rerio*:fried_shrimp: y *Lepisosteus oculatus*:shrimp:, donde la especie *T. rubripes* señala mayor acumulación de cambios evolutivos a tráves del tiempo :hourglass_flowing_sand:. Cabe resaltar que este grupo monofilético muestra apariciones y cambios evolutivos más lejanos entre cada especie.
 
 Asimismo, es posible identificar otros clados con apariciones y cambios evolutivos no muy lejanos entre sí: el primero, comformado por las especies *Pelodiscus sinensis*, *Anolis carolinensis*, *Taeniopygia guttata*, *Meleagris gallopavo* y *Gallus gallus*; el segundo, conformado por *Homo sapiens*, *Mus musculus*, *Canis lupus familiaris*, *Dasypus novemcintus* y *Loxodonta africana*, siendo estos últimos más recientes.
 
